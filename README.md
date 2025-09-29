@@ -1,16 +1,32 @@
-## Hi there 👋
+# Perfil profesional
+Desarrollador con experiencia en Java, C#, SQL, HTML y CSS. Proactivo, resolutivo y con capacidad para trabajo en equipo. Interesado en el desarrollo de software, diseño web e inteligencia artificial.
 
-<!--
-**samucardoso21/samucardoso21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Experiencia
+* **[DXC Technology](https://dxc.com/es/es) - Departamento de Desarrollo (2019)**
+    * Resolución de incidencias de software utilizando Java
+    * Consultas SQL para análisis y corrección de errores en bases de datos
+    * Uso de GitHub para gestión de código y colaboración en equipo
+* **[Japiestudio](https://www.instagram.com/japiestudio/) - Diseño Web (2024)**
+    * Diseño y desarrollo de sitios web con Wordpress
 
-Here are some ideas to get you started:
+## Formación académica
+* **IES Campanillas - Desarrollo de Aplicaciones Multiplataforma (2018)
+    * Primer año del ciclo formativo de grado superior DAM
+* **Instituto Medac - Desarrollo de Aplicaciones Multiplataforma (2024)
+    * Segundo año del ciclo formativo de grado superior DAM
+* **EIG Education - Desarrollo de Aplicaciones Web (Actualmente)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Cursos y certificaciones
+* Curso certificado de SCRUM técnico (Openwebinars)
+* Curso certificado de SCRUM avanzado (Openwebinars)
+* Curso certificado de Maquetación responsive y layout (Openwebinars)
+
+## Tecnologías, lenguajes y otros datos
+| Tecnologías | Lenguajes | Otros Datos |
+|-----------|-----------|-----------|
+| Eclipse    | Java   | Inglés nivel intermedio (B1)    |
+| Netbeans   | C#   | Carnet de conducir tipo B   |
+| GitHub   | Python    | Disponibilidad horaria y flexibilidad laboral    |
+| Wordpress   | Swift    | Interés en automatización con IA mediante n8n y Make    |
+
+![Programming img](https://blog.ensalza.com/wp-content/uploads/que-es-java.jpg)
