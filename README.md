@@ -10,9 +10,9 @@ Desarrollador con experiencia en Java, C#, SQL, HTML y CSS. Proactivo, resolutiv
     * Diseño y desarrollo de sitios web con Wordpress
 
 ## Formación académica
-* **IES Campanillas - Desarrollo de Aplicaciones Multiplataforma (2018)
+* **IES Campanillas - Desarrollo de Aplicaciones Multiplataforma (2018)**
     * Primer año del ciclo formativo de grado superior DAM
-* **Instituto Medac - Desarrollo de Aplicaciones Multiplataforma (2024)
+* **Instituto Medac - Desarrollo de Aplicaciones Multiplataforma (2024)**
     * Segundo año del ciclo formativo de grado superior DAM
 * **EIG Education - Desarrollo de Aplicaciones Web (Actualmente)**
 
