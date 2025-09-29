@@ -29,4 +29,4 @@ Desarrollador con experiencia en Java, C#, SQL, HTML y CSS. Proactivo, resolutiv
 | GitHub   | Python    | Disponibilidad horaria y flexibilidad laboral    |
 | Wordpress   | Swift    | Interés en automatización con IA mediante n8n y Make    |
 
-![Programming img](https://blog.ensalza.com/wp-content/uploads/que-es-java.jpg)
+[![para-que-sirve-la-programacion-java-1.jpg](https://i.postimg.cc/9fMV330H/para-que-sirve-la-programacion-java-1.jpg)](https://postimg.cc/v4pC9N50)
